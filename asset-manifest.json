@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Data-Bridge/static/css/main.609d1037.css",
-    "main.js": "/Data-Bridge/static/js/main.675d8fd3.js",
-    "static/js/453.8ab44547.chunk.js": "/Data-Bridge/static/js/453.8ab44547.chunk.js",
-    "index.html": "/Data-Bridge/index.html",
-    "main.609d1037.css.map": "/Data-Bridge/static/css/main.609d1037.css.map",
-    "main.675d8fd3.js.map": "/Data-Bridge/static/js/main.675d8fd3.js.map",
-    "453.8ab44547.chunk.js.map": "/Data-Bridge/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/static/css/main.0d7edbdc.css",
+    "main.js": "/static/js/main.fd5e0201.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "index.html": "/index.html",
+    "main.0d7edbdc.css.map": "/static/css/main.0d7edbdc.css.map",
+    "main.fd5e0201.js.map": "/static/js/main.fd5e0201.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.609d1037.css",
-    "static/js/main.675d8fd3.js"
+    "static/css/main.0d7edbdc.css",
+    "static/js/main.fd5e0201.js"
   ]
 }
