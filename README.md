@@ -1,3 +1,7 @@
+# Data-Bridge (Front-end in React js & Backend in Laravel)
+
+Check Output :-> 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
